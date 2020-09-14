@@ -6,7 +6,7 @@ namespace First
     {
         static void Main(string[] args)
         {
-            Fraction fraction = new Fraction(3.4, 1);
+            Fraction fraction = new Fraction(3.4, 2.5);
 
             Console.WriteLine("Multiplication: "+fraction.Multiplication);
             Console.WriteLine("Division: "+fraction.Division);
